@@ -1,75 +1,35 @@
 ## Arsalan Ahmed
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/arsalan-ahmed-206b5226/)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Projects](#projects) | [Github](https://www.github.com/arsalanabc/) | [LinkedIn](https://www.linkedin.com/in/arsalan-ahmed-206b5226/)
+
+## Skills
 
 **Relevant Skills for this Role**
-- Experience with designing, building and testing Android applications
-- Proficient in writing algorithms and forecast modelling
-- Good understanding of data structures and classes in Python and Java
+- Designing, building and testing applications from scratch 
+- Pair programming on problem-solving and story work 
 - Excellent organisation and communication skills – provided client support as an IT assistant
 - Passion for learning technologies to improve and enhance products/services
 - Strong analytical and problem solving skills - comfortable with TDD approach
-- Competency to work well under minimum supervision
+- Research on new emerging technologies and identifying room for improvements
 
 **Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 **Technical Profenciency**
-- Basic : Python, JAVA, C ,HTML5, CSS, PHP, JavaScript, VBA
-- Web technologies: JQuery, node.js, AngularJs, Ionic framework, RESTful API
-- Mobile Applications Development: Blackberry, Android (Android Studio, Eclipse)
-- Database Systems: MySQL, SQLite, Firebase(noSQL), Splunk
-
-## Projects
-**Find it and Keep it:** Facebook game: Using Facebook API, PHP and JS to create a web game where users
-can hide virtual objects and challenge others to find it.
-**Android applications** *Published these apps to the market*
-**School book** (phone directory of school),
-**PopPop** (popping balloons game), and **Ball in the Air** (keep the balls bouncing for as long as you can)
-**Cross-platform apps:** Ionic Framework, node.js and AngularJs backed by Firebase (NoSql) database to
-create: **Jobner**: Easy and fast way to apply for jobs. **Tinder Points:** Dating app where users can gift each
-other items from Amazon shopping list
-Startups Projects:
-[Mapofit](http://www.campushappens.com/test_SO/mapofit.html): A project management tool
-**Textem** (discontinued): A Mass SMS marketing tool for university clubs
-[SafeOut](http://www.campushappens.com/test_SO/safeout.html): A campus safety platform
-**Mimik**: A fun mobile app that allows users to mimic funny pictures of celebrities
-
-For a complete list, see my [GitHub](https://github.com/arsalanabc?tab=repositories).
-
-## Skills
-
-- Experience with designing, building and testing Android applications
-- Proficient in writing algorithms and forecast modelling
-- Good understanding of data structures and classes in Python and Java
-- Excellent organisation and communication skills – provided client support as an IT assistant
-- Passion for learning technologies to improve and enhance products/services
-- Strong analytical and problem solving skills - comfortable with TDD approach
-- Competency to work well under minimum supervision
-
-## Education
-
-#### Makers Academy, London England (May '18 - Aug '18)
-
-A 16-week intensive development bootcamp, focusing on :
-
-- Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
-
-#### University of Waterloo, Waterloo Ontario (Sept '10 - Jun '15)
-
-- Bachelor of Mathematics
-- Computer Science minor
-
-#### Ontario Secondary School Diploma, Windsor Ontario (Sep '06 - Jun '10)
-
-- J.L. Forster Secondary School
+- Languages : Python, JAVA ,HTML5, CSS, PHP, JavaScript, VBA, Springboot
+- Infrastructure: AWS, Terraform, Docker
+- Database Systems: MySQL, Firebase(noSQL), Splunk
 
 ## Experience
 
-**Data Analyst** (Jul '16 - Present)    
+**Software Developer - London, UK (May 2018 - Present)**
+- Set up and tear down EC2 instances with Terraform on AWS
+- Created Business and tech level charts to visualize application metrics
+- Adapt Agile and XP environment with minimal lag 
+- Created a tracker to help team track their accrued resources
+- Purpose plans for Integration testing micro-services
+- Containerize micro-services and pull latest images from the AWS ECR
+
+**Data Analyst - London, UK (July 2017 - May 2018)**  
 - Creating a social media data collecting system which used to be done by an external company
 for a high price
 - Working with R and JavaScript to perform data analysis
@@ -103,9 +63,43 @@ dashboards and review of contingencies and running batch processes.
 - Designed programs to automate tasks to gather data from the machines and push applications
 - Prepaid spreadsheets and organised data to summarise the needs and wants of the staff
 
+## Education
 
+#### Makers Academy, London England (May '18 - Aug '18)
+
+A 16-week intensive development bootcamp, focusing on :
+
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behaviour driven development
+- Pair programming
+- XP values
+
+#### University of Waterloo, Waterloo Ontario (Sept '10 - Jun '15)
+
+- Bachelor of Mathematics
+- Computer Science minor
+
+#### Ontario Secondary School Diploma, Windsor Ontario (Sep '06 - Jun '10)
+
+- J.L. Forster Secondary School
 
 ## Hobbies and Interests
-- **Swimming** : The best full body exercise to release stress and keep you in shape
+- **Making Music** : Making Techno/deep house music on the weekends
 - **Badminton** : It is one of those sports where your stamina and reflax are tested constantily
 - **Cooking** : I have mastered boiling rice!
+
+## Projects
+**Find it and Keep it:** Facebook game: Using Facebook API, PHP and JS to create a web game where users
+can hide virtual objects and challenge others to find it.
+**Android applications** *Published these apps to the market*
+**School book** (phone directory of school),
+**PopPop** (popping balloons game), and **Ball in the Air** (keep the balls bouncing for as long as you can)
+**Cross-platform apps:** Ionic Framework, node.js and AngularJs backed by Firebase (NoSql) database to
+create: **Jobner**: Easy and fast way to apply for jobs. **Tinder Points:** Dating app where users can gift each
+other items from Amazon shopping list
+Sample Projects:
+[Mapofit](http://www.campushappens.com/test_SO/mapofit.html): A project management tool
+**Textem** (discontinued): A Mass SMS marketing tool for university clubs
+[SafeOut](http://www.campushappens.com/test_SO/safeout.html): A campus safety platform
+**Mimik**: A fun mobile app that allows users to mimic funny pictures of celebrities
