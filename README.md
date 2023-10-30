@@ -21,6 +21,23 @@
 
 ## Experience
 
+**Software Engineer - Emerson Electric Corporation, Climate Technology (JAVA, SpringBoot, AWS, Python, REST API)**
+Jan 2022 - Present 
+Montreal, Quebec
+- Lead a project to integrate and support 100k IoT connections, develop scalable REST API for consuming 3rd party events, and streamline Iot client connection process
+- Work with a network of microservices to support 4000 devices and 250 nodes include messaging queues, scaling, caching, and frontend.
+- Port core services on Linux and Windows while maintaining same code base
+- Drive code reviews, team collaboration and TDD
+
+**Software Developer - Thinkwell Group (NodeJS, GCP, DevOps, MongoDB, JIRA, Ansible, Docker, IoT, K8s)**
+July 2020 - Dec 2021
+Montreal, Quebec
+- Work with a Google team to develop a real time Windows media syncing service to sync 100+ servers asynchronously.
+- Run client machines as IOTs, authenticate keys, monitor health and push changes
+- Containerize our stack and leverage it for quick provisioning of staging, testing and local env
+- Work with GCP services PubSub, Function, Storage and Kubernetes to build killer products
+- Train junior developers and work closely with the QA tester; review merge requests
+
 **Software Developer - London, UK (May 2018 - Present)**
 - Set up and tear down EC2 instances with Terraform on AWS
 - Created Business and tech level charts to visualize application metrics
